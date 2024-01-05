@@ -9,7 +9,7 @@ The dataset provides information like Year, Country, Region, Latitude, Longitude
 The dataset's owner Kaggle is the source providing the data.
 
 
-## Zamoto Analysis
+## Terrorism Analysis
 * Load the Raw Data.
 * Data cleaning is performed on Python libraries Numpy, and pandas.
 * Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
@@ -25,7 +25,7 @@ The analysis that we are going to perform shall answer the following questions:
 
 
 ## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7">
+<img width="1800" alt="Dashboard snapshort" src="[https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7](https://github.com/Shashidhar-Rolex/Global-Terrorism-Analysis/blob/main/Global%2BTerrorism%2BAnalysis%20-%20Report.pdf)">
 
 
 ## Conclusion
