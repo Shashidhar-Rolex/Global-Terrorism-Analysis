@@ -26,13 +26,3 @@ The analysis that we are going to perform shall answer the following questions:
 
 ## Dashboard
 <img width="1800" alt="Dashboard snapshort" src="https://github.com/Shashidhar-Rolex/Global-Terrorism-Analysis/blob/main/Global%2BTerrorism%2BAnalysis%20-%20Report.pdf">
-
-
-## Conclusion
-* The dataset shows the restaurants with the highest cost for two, countries with a greater number of restaurants on Zomato, countries with 
-  restaurants that offer online delivery, average aggregate rating for countries, etc.
-* Based on our analysis performed, the restaurants present in different localities can improve the quality of the restaurant, deliver online,work on days that have an average aggregate rating, 
-  and check for value-added restaurants to check on how they work and can implement a few techniques like including both online delivery and table booking, providing various cuisines to 
-  visitors, etc.
-* It is easy for frequent visitor's filter based on the average cost for two, votes, the aggregate rating, cuisines, etc. This can be done before 
-  visiting the restaurant
