@@ -25,7 +25,7 @@ The analysis that we are going to perform shall answer the following questions:
 
 
 ## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="[(https://github.com/Shashidhar-Rolex/Global-Terrorism-Analysis/blob/main/G](https://github.com/Shashidhar-Rolex/Global-Terrorism-Analysis/blob/main/Global%2BTerrorism%2BAnalysis%20-%20Report.pdf)]">
+<img width="1800" alt="Dashboard snapshort" src="https://github.com/Shashidhar-Rolex/Global-Terrorism-Analysis/blob/main/Global%2BTerrorism%2BAnalysis%20-%20Report.pdf">
 
 
 ## Conclusion
